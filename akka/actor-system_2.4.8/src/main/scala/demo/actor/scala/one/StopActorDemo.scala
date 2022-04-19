@@ -1,4 +1,4 @@
-package demo.actor.one
+package demo.actor.scala.one
 
 import akka.actor.{Actor, ActorSystem, Props}
 

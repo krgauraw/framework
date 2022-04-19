@@ -1,4 +1,4 @@
-package demo.actor.life_cycle;
+package demo.actor.scala.life_cycle;
 
 import akka.actor.ActorRef;
 import akka.actor.ActorSystem;
